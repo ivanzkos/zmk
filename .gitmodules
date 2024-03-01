@@ -1,0 +1,3 @@
+[submodule "miryoku_zmk"]
+	path = miryoku_zmk
+	url = git@github.com:ivanzkos/miryoku_zmk.git
